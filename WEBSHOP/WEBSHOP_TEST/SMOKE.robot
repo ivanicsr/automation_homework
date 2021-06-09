@@ -14,7 +14,7 @@ SUCCESSFUL_REGISTRATION
     ...    registration
     UI Open Chrome Browser    http://www.automationpractice.com
     UI Click    loc xpath    //div[@class='header_user_info']
-    UI Input Text    nikrobert10@gmail.com    loc element by id    email_create
+    UI Input Text    nikrobert12@gmail.com    loc element by id    email_create
     Ui Click    loc element by id    SubmitCreate
     Ui Click    loc element by id    id_gender1
     UI Input Text    ivanics    loc element by id    customer_firstname
